@@ -14,5 +14,5 @@ This is expected to be a school project repo, and will remain public, unless som
 ```bash
 python3 -m venv venv
 source venv/bin/activate
-pip3 install -r requirements.txt3
+pip3 install -r requirements.txt
 python3 src/main.py
