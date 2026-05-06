@@ -1,0 +1,15 @@
+venv/
+.env/
+
+data/
+*.csv
+*.parquet
+
+models/
+*.h5
+*.pt
+*.pth
+
+*.log
+
+.DS_Store
